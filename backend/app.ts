@@ -11,3 +11,5 @@ app.use((ctx) => {
 });
 
 app.listen(3001);
+
+export default app;
